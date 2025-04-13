@@ -108,5 +108,5 @@ This project is licensed under the MIT License. Feel free to fork and modify it.
 
 **Treylon Wofford**
 
-Connect with me on [LinkedIn](https://www.linkedin.com/) or explore more projects!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/treylon-wofford/) or explore more projects!
 
